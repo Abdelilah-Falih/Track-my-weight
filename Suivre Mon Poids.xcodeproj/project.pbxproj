@@ -14,6 +14,7 @@
 		04D6FFB52A5AC89100B3F99A /* Suivre_Mon_Poids.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 04D6FFB32A5AC89100B3F99A /* Suivre_Mon_Poids.xcdatamodeld */; };
 		04D6FFB72A5AC89400B3F99A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04D6FFB62A5AC89400B3F99A /* Assets.xcassets */; };
 		04D6FFBA2A5AC89400B3F99A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04D6FFB82A5AC89400B3F99A /* LaunchScreen.storyboard */; };
+		04D6FFC22A5AD1F600B3F99A /* ItemController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D6FFC12A5AD1F600B3F99A /* ItemController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		04D6FFB62A5AC89400B3F99A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04D6FFB92A5AC89400B3F99A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04D6FFBB2A5AC89400B3F99A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04D6FFC12A5AD1F600B3F99A /* ItemController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				04D6FFAC2A5AC89100B3F99A /* SceneDelegate.swift */,
 				04D6FFAE2A5AC89100B3F99A /* ViewController.swift */,
 				04D6FFB02A5AC89100B3F99A /* Main.storyboard */,
+				04D6FFC12A5AD1F600B3F99A /* ItemController.swift */,
 				04D6FFB62A5AC89400B3F99A /* Assets.xcassets */,
 				04D6FFB82A5AC89400B3F99A /* LaunchScreen.storyboard */,
 				04D6FFBB2A5AC89400B3F99A /* Info.plist */,
@@ -144,6 +147,7 @@
 				04D6FFAF2A5AC89100B3F99A /* ViewController.swift in Sources */,
 				04D6FFAB2A5AC89100B3F99A /* AppDelegate.swift in Sources */,
 				04D6FFB52A5AC89100B3F99A /* Suivre_Mon_Poids.xcdatamodeld in Sources */,
+				04D6FFC22A5AD1F600B3F99A /* ItemController.swift in Sources */,
 				04D6FFAD2A5AC89100B3F99A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
